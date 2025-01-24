@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/-MestreTM-blue?style=flat&logo=discord&logoColor=white)](MestreTM)
+![Discord](https://img.shields.io/badge/-MestreTM-blue?style=flat&logo=discord&logoColor=white)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@mestretm/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=fff&style=flat)](https://twitter.com/mestretm)
 
